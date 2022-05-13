@@ -1,6 +1,7 @@
 import React from "react";
 import { Route, Routes } from "react-router-dom";
 import Navbar from "../src/Compnents/Navbar";
+import Footer from "./Compnents/Footer";
 import About from "./Compnents/pages/About";
 import Appointment from "./Compnents/pages/Appointment";
 import ContactUs from "./Compnents/pages/ContactUs";
